@@ -4,7 +4,10 @@
 
 ###
 
-<p align="left">Estou começando minha jornada como desenvolvedor e explorando o mundo da programação. Atualmente, estou aprendendo Next.js e Desenvolvimento Web. Estou empolgado para crescer e ajudar em projetos enquanto continuo aprendendo. Se você tem alguma dica ou está procurando alguém para colaborar, ficarei feliz em conversar!</p>
+<p align="left">
+Sou Desenvolvedor C# atuando profissionalmente no desenvolvimento de aplicações desktop e APIs utilizando .NET e WPF. Atualmente trabalho com foco em sistemas empresariais, mas também dedico meu tempo livre ao estudo de novas tecnologias como Angular, ASP.NET Core, Next.js, e Node.js.<br><br>
+Gosto de explorar diferentes stacks e construir projetos pessoais que me ajudam a entender melhor os fundamentos do desenvolvimento web e desktop. Estou sempre em busca de aprendizado contínuo e aberto a conexões com profissionais da área para trocar experiências ou colaborar em projetos.
+</p>
 
 ###
 
