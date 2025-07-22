@@ -23,8 +23,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
 </div>
+
+###
+
+<h2 align="left">Projetos em Destaque</h2>
+
+###
+
+<ul>
+  <li><strong>IDSystem</strong>: Sistema completo de cadastro e gerenciamento de usuários em WPF com SQLite, Entity Framework Core e autenticação com hash de senha. Utiliza arquitetura em camadas e foco em segurança local.</li>
+
+  <li><strong>agenda-backend</strong>: API desenvolvida com ASP.NET Core para gerenciamento de uma agenda de compromissos. Inclui autenticação, controle de usuários, endpoints RESTful e integração com banco de dados relacional.</li>
+
+  <li><strong>agenda-frontend</strong>: Aplicação Angular para consumo da API da agenda, com interface moderna e filtros dinâmicos. Usa Angular Material e serviços reativos com RxJS.</li>
+
+  <li><strong>Crud_pagina_cadastro</strong>: Página simples de cadastro utilizando HTML, CSS e JavaScript. Demonstra conceitos básicos de formulários, validação e layout responsivo.</li>
+</ul>
 
 ###
 
